@@ -1,5 +1,5 @@
 # MERN Stack Coding Challenge
-![Image Description](https://example.com/path/to/your/image.png)
+![Image Description](Screenshot (914).png)
 ## Overview
 
 This project is a MERN stack application that fetches transaction data from a third-party API, seeds a MongoDB database, and provides various endpoints to interact with the data. The frontend displays the transactions, statistics, and charts based on the selected month.
